@@ -5,3 +5,7 @@
 
     <p ng-bind='projects.tagline'></p>
 </div>
+<div class="panel" ng-repeat="project in projects.projectsList">
+	<h2 ng-bind="project.name"></h2>
+	<p ng-bind="project.description"></p>
+</div>

@@ -24,10 +24,10 @@ app
         //     controllerAs: 'likes',
         //     controller: 'likesController'
         // })
-        .when('/contact', {
-            templateUrl: 'components/contact/contactView.html',
-            controllerAs: 'contact',
-            controller: 'ContactCtrl'
+        .when('/connect', {
+            templateUrl: 'components/connect/connectView.html',
+            controllerAs: 'connect',
+            controller: 'ConnectCtrl'
         })
         .otherwise({ redirectTo: '/' });;
 

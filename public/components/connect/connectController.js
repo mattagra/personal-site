@@ -1,4 +1,4 @@
-app.controller('ContactCtrl', function() {
+app.controller('ConnectCtrl', function() {
 
     this.tagline = 'Get in touch.';   
 

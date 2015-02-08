@@ -1,0 +1,1414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"description"
+			],
+			[
+				"i",
+				"ItemID"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"itemid",
+				"itemid"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "/Users/mattagra/Code/test-mean/packages/articles/README.md",
+			"file_size": 17,
+			"file_write_time": 1423370063000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/db.js",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 210,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "meantut.sublime-project",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 258,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".bowerrc",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes.js",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 1156 files for \"/public/views/index.html\" (case sensitive)\n\n0 matches across 0 files\n",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "public/views/home.html",
+			"settings":
+			{
+				"buffer_size": 137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 1489,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/app.routes.js",
+			"settings":
+			{
+				"buffer_size": 986,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/views/project.html",
+			"settings":
+			{
+				"buffer_size": 134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/controllers/ProjectCtrl.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/components/projects/projectsController.js",
+			"settings":
+			{
+				"buffer_size": 423,
+				"line_ending": "Unix",
+				"name": "app.controller('ProjectsController', function() {"
+			}
+		},
+		{
+			"contents": "var app = angular.module('MattAgraSite', ['ngRoute']);\n",
+			"file": "public/js/app.module.js",
+			"file_size": 55,
+			"file_write_time": 1423372405000000,
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "public/js/controllers/MainCtrl.js",
+			"file_size": 135,
+			"file_write_time": 1423371515000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "app.controller('HomeCtrl', function() {\n\n    this.tagline = \"I'm a Computer Science undergrad student at UCLA, a public relations coordinator for <abbr title=\"Samahang Pilipino Cultural Night\">SPCN</abbr>\";   \n\n});",
+			"file": "public/components/home/homeController.js",
+			"file_size": 79,
+			"file_write_time": 1423374846000000,
+			"settings":
+			{
+				"buffer_size": 214,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/services/NerdService.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/components/projects/projectsService.js",
+			"settings":
+			{
+				"buffer_size": 616,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/app.routes.js",
+			"settings":
+			{
+				"buffer_size": 1120,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/components/projects/projectsView.html",
+			"settings":
+			{
+				"buffer_size": 285,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/components/home/homeView.html",
+			"settings":
+			{
+				"buffer_size": 401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 1439,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/Nerd.js",
+			"settings":
+			{
+				"buffer_size": 246,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/components/contact/contactView.html",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/components/contact/contactController.js",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/components/connect/connectController.js",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/components/connect/connectView.html",
+			"settings":
+			{
+				"buffer_size": 410,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mattagra/Code/cs144/project3/p3_index_test",
+		"/Users/mattagra/Code/cs144/project3/project3-indexer/src/edu/ucla/cs/cs144/DbManager.java",
+		"/Users/mattagra/Code/cs144/project3/project3-indexer/lucene-tutorial/src/lucene/demo/search/Indexer.java",
+		"/Users/mattagra/Code/cs144/project3/project3-indexer/buildSQLIndex.sql",
+		"/Users/mattagra/Code/cs144/project3/project3-indexer/dropSQLIndex.sql",
+		"/Users/mattagra/Code/cs144/project2/create.sql",
+		"/Users/mattagra/Code/cs144/project3/project3-indexer/jdbc-tutorial/src/accessDatabase.java",
+		"/Users/mattagra/Code/cs144/project3/project3-indexer/lucene-tutorial/src/lucene/demo/search/SearchEngine.java",
+		"/Users/mattagra/Code/cs144/project3/project3-searcher/src/edu/ucla/cs/cs144/SearchEngine.java",
+		"/Users/mattagra/Code/cs144/project3/project3-indexer/src/edu/ucla/cs/cs144/Items.java",
+		"/Users/mattagra/Code/flappernews/flapper-news/routes/index.js",
+		"/Users/mattagra/Code/flappernews/flapper-news/app.js",
+		"/Users/mattagra/Code/flappernews/flapper-news/public/javascripts/angularApp.js",
+		"/Users/mattagra/Code/flappernews/flapper-news/models/Posts.js",
+		"/Users/mattagra/Code/flappernews/index.html",
+		"/Users/mattagra/Code/flappernews/flapper-news/package.json",
+		"/Users/mattagra/Code/flappernews/flapper-news/models/Comments.js",
+		"/Users/mattagra/Code/flappernews/app.js",
+		"/Users/mattagra/Code/cs144/project2/drop.sql",
+		"/Users/mattagra/Code/cs144/project2/runLoad.sh",
+		"/Users/mattagra/Code/cs144/project2/load.sql",
+		"/Users/mattagra/Code/cs144/project2/ebay-data/items-0.xml",
+		"/Users/mattagra/Code/cs144/project2/Bidders.nodup",
+		"/Users/mattagra/Code/cs144/project2/ebay-data/ItemID",
+		"/Users/mattagra/Code/cs144/project2/Sellers.nodup",
+		"/Users/mattagra/Code/cs144/project2/src/edu/ucla/cs/cs144/MyParser.java",
+		"/Users/mattagra/Code/cs144/project2/README.txt",
+		"/Users/mattagra/Code/cs144/project2/Items.dat",
+		"/Users/mattagra/Code/meteor2/simple-todos/simple-todos.css",
+		"/Users/mattagra/Code/meteor2/simple-todos/simple-todos.html",
+		"/Users/mattagra/Code/meteor2/simple-todos/simple-todos.js",
+		"/Volumes/NO NAME/MISC/version.txt",
+		"/Users/mattagra/Dropbox/Matthew Agra.txt",
+		"/Users/mattagra/Downloads/lab1.v",
+		"/Users/mattagra/Downloads/fib.dat",
+		"/Users/mattagra/Dropbox/Code/webdev2/Vagrantfile",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/for-submission/README.txt",
+		"/Users/mattagra/Documents/CS 144/cs144/project2/README.txt",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/drop.sql",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/Items.dat",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/ebay-data/items-0.xml",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/src/edu/ucla/cs/cs144/MyParser.java",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/load.sql",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/create.sql",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/queries.sql",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/build.xml",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/ebay-data/items.txt",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/runLoad.sh",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/ItemsSellers.dat",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/Sellers.dat",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/Bidders.dat",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/Bids.dat",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/Categories.dat",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/loadfile-bidders.txt",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/loadfile-categories.txt",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/loadfile-items.txt",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/loadfile-itemssellers.txt",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/loadfile-sellers.txt",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/loadfile-bids.txt",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/loadfile",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/MyParser copy.java",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/items_loadfile.txt",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/categories_loadfile.txt",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project2/loadfile.log",
+		"/Users/mattagra/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/services/index.php",
+		"/private/var/folders/1j/ly3kqdjs1g904_37_1nbd_qr0000gn/T/69db5092-954c-4d25-bfea-0cb4a6c2ebdb/workout-tracker/services/functions/Exercises.php",
+		"/private/var/folders/1j/ly3kqdjs1g904_37_1nbd_qr0000gn/T/69db5092-954c-4d25-bfea-0cb4a6c2ebdb/workout-tracker/services/index.php",
+		"/Users/mattagra/Downloads/testslim/index.php",
+		"/private/var/folders/1j/ly3kqdjs1g904_37_1nbd_qr0000gn/T/69db5092-954c-4d25-bfea-0cb4a6c2ebdb/workout-tracker/services/.htaccess",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/partials/exercise.html",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/partials/workout.html",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/partials/workout-log.html",
+		"/private/var/folders/1j/ly3kqdjs1g904_37_1nbd_qr0000gn/T/69db5092-954c-4d25-bfea-0cb4a6c2ebdb/workout-tracker/services/functions/DatabaseConnection.php",
+		"/Users/mattagra/Desktop/workout_2015-01-21.sql",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/partials/new-workout.html",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/js/controllers.js",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/services/functions/Workouts.php",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/services/functions/Special.php",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/services/functions/Sets.php",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/js/angular-route.min.js",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/services/functions/Exercises.php",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/js/app.js",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/index.html",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/js/datetimepicker.js",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/js/controllers/ExerciseCtrl.js",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/js/controllers/WorkoutLogCtrl.js",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/js/services.js",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/js/filters.js",
+		"/Users/mattagra/Dropbox/Code/webdev2/public/workout-tracker/services/functions/DatabaseConnection.php",
+		"/Users/mattagra/Dropbox/Code/webdev/services/.htaccess",
+		"/Users/mattagra/Dropbox/Code/webdev/services/index.php",
+		"/Users/mattagra/Dropbox/Code/webdev/workout-tracker/sql/workout.sql",
+		"/Users/mattagra/Dropbox/Code/webdev/workout-tracker/services/.htaccess",
+		"/Users/mattagra/Dropbox/Code/webdev/workout-tracker/services/README.markdown",
+		"/Users/mattagra/Dropbox/Code/webdev/services/composer.json",
+		"/Users/mattagra/Dropbox/Code/webdev/workout-tracker/services/index.php",
+		"/Users/mattagra/Downloads/web/index.html",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project1/ComputeSHA.java",
+		"/Users/mattagra/Documents/CS 144/vm-shared/project1/actors.sql",
+		"/Users/mattagra/Downloads/AGRA-MATTHEW-BRIAN-15W-2.ics",
+		"/Users/mattagra/Dropbox/Apps/Day One/Journal.dayone/entries/4BA39DF456FC440789759484BFF17B61.doentry",
+		"/Users/mattagra/Downloads/HealthSummary20141231/MachineReadable_XDMFormat/IHE_XDM/Matthew1/DOC0001.XML",
+		"/Users/mattagra/Downloads/Watch Later/Adobe.Photoshop.Lightroom.v5.7.Multilingual.MacOSX.Incl.Keymaker-CORE/core.nfo",
+		"/Users/mattagra/Dropbox/Apps/Day One/Journal.dayone/entries/0A43C1DD81A54AB6B4B2585E15C08C4F.doentry",
+		"/Users/mattagra/Dropbox/Apps/Day One/Journal.dayone/entries/2A896F91D9D94F21B31A534276993C3A.doentry",
+		"/Users/mattagra/Dropbox/Code/beat-synchronized-led-lights/bandpasssync2.pde",
+		"/Users/mattagra/Dropbox/Code/webdev/active/mattagra-com/v15/index.html",
+		"/Users/mattagra/Dropbox/Code/webdev/inactive/journal/config.json",
+		"/Users/mattagra/Downloads/angular.min.js",
+		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/resources/input.js",
+		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/resources/addWorkout.js",
+		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/style.css",
+		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/services/index.php",
+		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/Controller.php",
+		"/Users/mattagra/Dropbox/Code/webdev/workout2/index.php",
+		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/angular-workout.sublime-project",
+		"/Users/mattagra/Dropbox/Code/webdev/workout2/Model.php",
+		"/Users/mattagra/Dropbox/Code/webdev/workout2/Controller.php",
+		"/Users/mattagra/Dropbox/Code/webdev/vworkout/index.php",
+		"/Volumes/WDMP2/DATA/Projects/Code/htdocs/workout2/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/mattagra/Code/personal-site"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"/public/views/index.html",
+			"create",
+			"getall",
+			"router",
+			"static",
+			"addPost",
+			"seller",
+			"html",
+			"public",
+			"html",
+			"public",
+			"convertDate",
+			"convertDa",
+			"itemid",
+			"itemssell",
+			"itemssellers",
+			"writer",
+			"categories_load",
+			"Name",
+			"\\N",
+			"dollface94",
+			"rulabula",
+			"convertDat",
+			"int n",
+			"getAttrTextByTagNameNR",
+			"Location",
+			"rulabula",
+			"attr",
+			"parse",
+			"newDocum",
+			"builder",
+			"doc",
+			"getDocumentElem",
+			"typename",
+			"model",
+			"date",
+			"{",
+			"UID:",
+			"UID"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"itemID",
+			"writer1",
+			"UID:a"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/mattagra/Code/test-mean/packages/articles/README.md",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/db.js",
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								35
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "meantut.sublime-project",
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bower.json",
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".bowerrc",
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/routes.js",
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								878,
+								878
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/views/home.html",
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "public/index.html",
+					"settings":
+					{
+						"buffer_size": 1489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								897,
+								897
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "public/js/app.routes.js",
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"default_dir": "/Users/mattagra/Code/personal-site/public/components",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "public/views/project.html",
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "public/js/controllers/ProjectCtrl.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "public/components/projects/projectsController.js",
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								418,
+								418
+							]
+						],
+						"settings":
+						{
+							"auto_name": "app.controller('ProjectsController', function() {",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "public/js/app.module.js",
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "public/js/controllers/MainCtrl.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"default_dir": "/Users/mattagra/Code/personal-site/public/components",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "public/components/home/homeController.js",
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								61
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "public/js/services/NerdService.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "public/components/projects/projectsService.js",
+					"settings":
+					{
+						"buffer_size": 616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								616,
+								616
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "public/app.routes.js",
+					"settings":
+					{
+						"buffer_size": 1120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1016,
+								1016
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "public/components/projects/projectsView.html",
+					"settings":
+					{
+						"buffer_size": 285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								158
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "public/components/home/homeView.html",
+					"settings":
+					{
+						"buffer_size": 401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 1439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1253,
+								1253
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "app/models/Nerd.js",
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "public/components/contact/contactView.html",
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "public/components/contact/contactController.js",
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "public/components/connect/connectController.js",
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "public/components/connect/connectView.html",
+					"settings":
+					{
+						"buffer_size": 410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true
+}

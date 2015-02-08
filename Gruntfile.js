@@ -25,14 +25,33 @@ module.exports = function(grunt) {
     watch: {
       files: ['<%= jshint.files %>'],
       tasks: ['jshint']
+    },
+    browserSync: {
+      default_options: {
+        bsFiles: {
+          src: [
+            "public/**/*.css",
+            "public/**/*.html",
+            "public/components/**/*.js"
+          ]
+        },
+        options: {
+          watchTask: true,
+          proxy: "localhost:8880"
+          // server: {
+          //   baseDir: "./public"
+          // }
+        }
+      }
     }
   });
 
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-browser-sync');
 
   //grunt.registerTask('test', ['jshint']);
 
-  grunt.registerTask('default', ['jshint']);
+  grunt.registerTask('default', ["browserSync", "watch"]);
 
 };

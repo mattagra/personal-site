@@ -1,8 +1,6 @@
-app
-.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
+app.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
 
     $routeProvider
-
         // home page
         .when('/', {
             templateUrl: 'components/home/homeView.html',
@@ -29,7 +27,7 @@ app
             controllerAs: 'connect',
             controller: 'ConnectCtrl'
         })
-        .otherwise({ redirectTo: '/' });;
+        .otherwise({ redirectTo: '/' });
 
     $locationProvider.html5Mode(true);
 

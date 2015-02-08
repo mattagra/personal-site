@@ -1,6 +1,5 @@
 // public/js/services/NerdService.js
-app
-.factory('NerdService', ['$http', function($http) {
+app.factory('NerdService', ['$http', function($http) {
 
     return {
         // call to get all nerds
@@ -19,6 +18,6 @@ app
         delete : function(id) {
             return $http.delete('/api/nerds/' + id);
         }
-    }       
+    };
 
 }]);

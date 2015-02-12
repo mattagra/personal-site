@@ -25,240 +25,12 @@
 	[
 		{
 			"contents": "",
-			"file": "/Users/mattagra/Code/test-mean/packages/articles/README.md",
-			"file_size": 17,
-			"file_write_time": 1423370063000000,
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "config/db.js",
-			"settings":
-			{
-				"buffer_size": 81,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 210,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "meantut.sublime-project",
-			"settings":
-			{
-				"buffer_size": 78,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "bower.json",
-			"settings":
-			{
-				"buffer_size": 258,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": ".bowerrc",
-			"settings":
-			{
-				"buffer_size": 35,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/routes.js",
-			"settings":
-			{
-				"buffer_size": 1080,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "Searching 1156 files for \"/public/views/index.html\" (case sensitive)\n\n0 matches across 0 files\n",
-			"settings":
-			{
-				"buffer_size": 95,
-				"line_ending": "Unix",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"file": "public/views/home.html",
-			"settings":
-			{
-				"buffer_size": 137,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/index.html",
-			"settings":
-			{
-				"buffer_size": 1489,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/js/app.routes.js",
-			"settings":
-			{
-				"buffer_size": 986,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/views/project.html",
-			"settings":
-			{
-				"buffer_size": 134,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/js/controllers/ProjectCtrl.js",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/components/projects/projectsController.js",
-			"settings":
-			{
-				"buffer_size": 423,
-				"line_ending": "Unix",
-				"name": "app.controller('ProjectsController', function() {"
-			}
-		},
-		{
-			"contents": "var app = angular.module('MattAgraSite', ['ngRoute']);\n",
-			"file": "public/js/app.module.js",
-			"file_size": 55,
-			"file_write_time": 1423372405000000,
-			"settings":
-			{
-				"buffer_size": 55,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "",
-			"file": "public/js/controllers/MainCtrl.js",
-			"file_size": 135,
-			"file_write_time": 1423371515000000,
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "app.controller('HomeCtrl', function() {\n\n    this.tagline = \"I'm a Computer Science undergrad student at UCLA, a public relations coordinator for <abbr title=\"Samahang Pilipino Cultural Night\">SPCN</abbr>\";   \n\n});",
-			"file": "public/components/home/homeController.js",
-			"file_size": 79,
-			"file_write_time": 1423374846000000,
-			"settings":
-			{
-				"buffer_size": 214,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/js/services/NerdService.js",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/components/projects/projectsService.js",
-			"settings":
-			{
-				"buffer_size": 616,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/app.routes.js",
-			"settings":
-			{
-				"buffer_size": 1120,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/components/projects/projectsView.html",
-			"settings":
-			{
-				"buffer_size": 285,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/components/home/homeView.html",
-			"settings":
-			{
-				"buffer_size": 401,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "server.js",
-			"settings":
-			{
-				"buffer_size": 1439,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/models/Nerd.js",
-			"settings":
-			{
-				"buffer_size": 246,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/components/contact/contactView.html",
-			"settings":
-			{
-				"buffer_size": 155,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "public/components/contact/contactController.js",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 87,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -266,7 +38,7 @@
 			"file": "public/components/connect/connectController.js",
 			"settings":
 			{
-				"buffer_size": 87,
+				"buffer_size": 415,
 				"line_ending": "Unix"
 			}
 		},
@@ -274,7 +46,7 @@
 			"file": "public/components/connect/connectView.html",
 			"settings":
 			{
-				"buffer_size": 410,
+				"buffer_size": 257,
 				"line_ending": "Unix"
 			}
 		}
@@ -315,6 +87,35 @@
 	},
 	"file_history":
 	[
+		"/Users/mattagra/Code/personal-site/public/components/contact/contactView.html",
+		"/Users/mattagra/Code/personal-site/app/models/Nerd.js",
+		"/Users/mattagra/Code/personal-site/server.js",
+		"/Users/mattagra/Code/personal-site/public/components/home/homeView.html",
+		"/Users/mattagra/Code/personal-site/public/components/projects/projectsView.html",
+		"/Users/mattagra/Code/personal-site/public/app.routes.js",
+		"/Users/mattagra/Code/personal-site/public/components/projects/projectsService.js",
+		"/Users/mattagra/Code/personal-site/public/js/services/NerdService.js",
+		"/Users/mattagra/Code/personal-site/public/components/home/homeController.js",
+		"/Users/mattagra/Code/personal-site/public/js/controllers/MainCtrl.js",
+		"/Users/mattagra/Code/personal-site/public/js/app.module.js",
+		"/Users/mattagra/Code/personal-site/public/js/controllers/ProjectCtrl.js",
+		"/Users/mattagra/Code/personal-site/public/views/project.html",
+		"/Users/mattagra/Code/personal-site/public/js/app.routes.js",
+		"/Users/mattagra/Code/personal-site/Gruntfile",
+		"/Users/mattagra/Code/personal-site/public/index.html",
+		"/Users/mattagra/Code/personal-site/public/views/home.html",
+		"/Users/mattagra/Code/personal-site/app/routes.js",
+		"/Users/mattagra/Code/personal-site/.bowerrc",
+		"/Users/mattagra/Code/personal-site/bower.json",
+		"/Users/mattagra/Code/personal-site/meantut.sublime-project",
+		"/Users/mattagra/Code/personal-site/package.json",
+		"/Users/mattagra/Code/personal-site/public/components/projects/projectsController.js",
+		"/Users/mattagra/Downloads/fpcvt.v",
+		"/Users/mattagra/Downloads/fpcvt_tb.v",
+		"/Users/mattagra/Code/personal-site/Gruntfile.js",
+		"/Users/mattagra/Code/test-mean/packages/articles/README.md",
+		"/Users/mattagra/Code/personal-site/config/db.js",
+		"/Users/mattagra/Code/CPO Test Bank/CPO Spec.txt",
 		"/Users/mattagra/Code/cs144/project3/p3_index_test",
 		"/Users/mattagra/Code/cs144/project3/project3-indexer/src/edu/ucla/cs/cs144/DbManager.java",
 		"/Users/mattagra/Code/cs144/project3/project3-indexer/lucene-tutorial/src/lucene/demo/search/Indexer.java",
@@ -413,29 +214,7 @@
 		"/Users/mattagra/Dropbox/Code/webdev/services/composer.json",
 		"/Users/mattagra/Dropbox/Code/webdev/workout-tracker/services/index.php",
 		"/Users/mattagra/Downloads/web/index.html",
-		"/Users/mattagra/Documents/CS 144/vm-shared/project1/ComputeSHA.java",
-		"/Users/mattagra/Documents/CS 144/vm-shared/project1/actors.sql",
-		"/Users/mattagra/Downloads/AGRA-MATTHEW-BRIAN-15W-2.ics",
-		"/Users/mattagra/Dropbox/Apps/Day One/Journal.dayone/entries/4BA39DF456FC440789759484BFF17B61.doentry",
-		"/Users/mattagra/Downloads/HealthSummary20141231/MachineReadable_XDMFormat/IHE_XDM/Matthew1/DOC0001.XML",
-		"/Users/mattagra/Downloads/Watch Later/Adobe.Photoshop.Lightroom.v5.7.Multilingual.MacOSX.Incl.Keymaker-CORE/core.nfo",
-		"/Users/mattagra/Dropbox/Apps/Day One/Journal.dayone/entries/0A43C1DD81A54AB6B4B2585E15C08C4F.doentry",
-		"/Users/mattagra/Dropbox/Apps/Day One/Journal.dayone/entries/2A896F91D9D94F21B31A534276993C3A.doentry",
-		"/Users/mattagra/Dropbox/Code/beat-synchronized-led-lights/bandpasssync2.pde",
-		"/Users/mattagra/Dropbox/Code/webdev/active/mattagra-com/v15/index.html",
-		"/Users/mattagra/Dropbox/Code/webdev/inactive/journal/config.json",
-		"/Users/mattagra/Downloads/angular.min.js",
-		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/resources/input.js",
-		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/resources/addWorkout.js",
-		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/style.css",
-		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/services/index.php",
-		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/Controller.php",
-		"/Users/mattagra/Dropbox/Code/webdev/workout2/index.php",
-		"/Users/mattagra/Dropbox/Code/webdev/active/workout/v3/angular-workout.sublime-project",
-		"/Users/mattagra/Dropbox/Code/webdev/workout2/Model.php",
-		"/Users/mattagra/Dropbox/Code/webdev/workout2/Controller.php",
-		"/Users/mattagra/Dropbox/Code/webdev/vworkout/index.php",
-		"/Volumes/WDMP2/DATA/Projects/Code/htdocs/workout2/index.php"
+		"/Users/mattagra/Documents/CS 144/vm-shared/project1/ComputeSHA.java"
 	],
 	"find":
 	{
@@ -443,7 +222,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 			"/Users/mattagra/Code/personal-site"
@@ -513,11 +292,12 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/mattagra/Code/test-mean/packages/articles/README.md",
+					"file": "public/components/contact/contactController.js",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -534,7 +314,7 @@
 						"settings":
 						{
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -544,18 +324,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "config/db.js",
+					"file": "public/components/connect/connectController.js",
 					"settings":
 					{
-						"buffer_size": 81,
+						"buffer_size": 415,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								74,
-								74
+								411,
+								411
 							]
 						],
 						"settings":
@@ -571,768 +351,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "package.json",
-					"settings":
-					{
-						"buffer_size": 210,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								13,
-								35
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "meantut.sublime-project",
-					"settings":
-					{
-						"buffer_size": 78,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								67,
-								67
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "bower.json",
-					"settings":
-					{
-						"buffer_size": 258,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								37,
-								37
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": ".bowerrc",
-					"settings":
-					{
-						"buffer_size": 35,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/routes.js",
-					"settings":
-					{
-						"buffer_size": 1080,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								878,
-								878
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"settings":
-					{
-						"buffer_size": 95,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"detect_indentation": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "public/views/home.html",
-					"settings":
-					{
-						"buffer_size": 137,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								137,
-								137
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "public/index.html",
-					"settings":
-					{
-						"buffer_size": 1489,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								897,
-								897
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "public/js/app.routes.js",
-					"settings":
-					{
-						"buffer_size": 986,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								187,
-								187
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"default_dir": "/Users/mattagra/Code/personal-site/public/components",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "public/views/project.html",
-					"settings":
-					{
-						"buffer_size": 134,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								25,
-								25
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "public/js/controllers/ProjectCtrl.js",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "public/components/projects/projectsController.js",
-					"settings":
-					{
-						"buffer_size": 423,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								418,
-								418
-							]
-						],
-						"settings":
-						{
-							"auto_name": "app.controller('ProjectsController', function() {",
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "public/js/app.module.js",
-					"settings":
-					{
-						"buffer_size": 55,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "public/js/controllers/MainCtrl.js",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 17,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"default_dir": "/Users/mattagra/Code/personal-site/public/components",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 18,
-					"file": "public/components/home/homeController.js",
-					"settings":
-					{
-						"buffer_size": 214,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								210,
-								61
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 19,
-					"file": "public/js/services/NerdService.js",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 20,
-					"file": "public/components/projects/projectsService.js",
-					"settings":
-					{
-						"buffer_size": 616,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								616,
-								616
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 21,
-					"file": "public/app.routes.js",
-					"settings":
-					{
-						"buffer_size": 1120,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1016,
-								1016
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 22,
-					"file": "public/components/projects/projectsView.html",
-					"settings":
-					{
-						"buffer_size": 285,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								153,
-								158
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 23,
-					"file": "public/components/home/homeView.html",
-					"settings":
-					{
-						"buffer_size": 401,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								308,
-								308
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 24,
-					"file": "server.js",
-					"settings":
-					{
-						"buffer_size": 1439,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1253,
-								1253
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 25,
-					"file": "app/models/Nerd.js",
-					"settings":
-					{
-						"buffer_size": 246,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								246,
-								246
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 26,
-					"file": "public/components/contact/contactView.html",
-					"settings":
-					{
-						"buffer_size": 155,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								144,
-								144
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 27,
-					"file": "public/components/contact/contactController.js",
-					"settings":
-					{
-						"buffer_size": 87,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								82,
-								82
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 28,
-					"file": "public/components/connect/connectController.js",
-					"settings":
-					{
-						"buffer_size": 87,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								27,
-								27
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 29,
 					"file": "public/components/connect/connectView.html",
 					"settings":
 					{
-						"buffer_size": 410,
+						"buffer_size": 257,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								284,
-								284
+								216,
+								216
 							]
 						],
 						"settings":

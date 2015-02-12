@@ -7,5 +7,6 @@ app.controller('ConnectCtrl', function() {
     	{site_name: "Twitter", site_url: "https://twitter.com/mattagra"},
     	{site_name: "Facebook", site_url: "https://www.facebook.com/mattagra"},
     	{site_name: "Instagram", site_url: "http://instagram.com/mattagra"},
+    	{site_name: "GitHub", site_url: "http://github.com/mattagra"},
     ];
 });

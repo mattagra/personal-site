@@ -24,29 +24,26 @@
 	"buffers":
 	[
 		{
-			"contents": "",
-			"file": "public/components/contact/contactController.js",
-			"file_size": -1,
-			"file_write_time": -1,
+			"file": "/Users/mattagra/Code/personal-site/public/components/projects/projectsController.js",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1915,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/components/connect/connectController.js",
+			"file": "/Users/mattagra/Code/personal-site/public/components/projects/projectsView.html",
 			"settings":
 			{
-				"buffer_size": 415,
+				"buffer_size": 627,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/components/connect/connectView.html",
+			"file": "/Users/mattagra/Code/personal-site/public/components/home/homeView.html",
 			"settings":
 			{
-				"buffer_size": 257,
+				"buffer_size": 467,
 				"line_ending": "Unix"
 			}
 		}
@@ -87,10 +84,13 @@
 	},
 	"file_history":
 	[
+		"/Users/mattagra/code/personal-site/public/components/contact/contactController.js",
+		"/Users/mattagra/code/personal-site/public/components/connect/connectController.js",
+		"/Users/mattagra/code/personal-site/public/components/connect/connectView.html",
+		"/Users/mattagra/Code/personal-site/public/components/home/homeView.html",
 		"/Users/mattagra/Code/personal-site/public/components/contact/contactView.html",
 		"/Users/mattagra/Code/personal-site/app/models/Nerd.js",
 		"/Users/mattagra/Code/personal-site/server.js",
-		"/Users/mattagra/Code/personal-site/public/components/home/homeView.html",
 		"/Users/mattagra/Code/personal-site/public/components/projects/projectsView.html",
 		"/Users/mattagra/Code/personal-site/public/app.routes.js",
 		"/Users/mattagra/Code/personal-site/public/components/projects/projectsService.js",
@@ -211,10 +211,7 @@
 		"/Users/mattagra/Dropbox/Code/webdev/workout-tracker/sql/workout.sql",
 		"/Users/mattagra/Dropbox/Code/webdev/workout-tracker/services/.htaccess",
 		"/Users/mattagra/Dropbox/Code/webdev/workout-tracker/services/README.markdown",
-		"/Users/mattagra/Dropbox/Code/webdev/services/composer.json",
-		"/Users/mattagra/Dropbox/Code/webdev/workout-tracker/services/index.php",
-		"/Users/mattagra/Downloads/web/index.html",
-		"/Users/mattagra/Documents/CS 144/vm-shared/project1/ComputeSHA.java"
+		"/Users/mattagra/Dropbox/Code/webdev/services/composer.json"
 	],
 	"find":
 	{
@@ -297,18 +294,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "public/components/contact/contactController.js",
+					"file": "/Users/mattagra/Code/personal-site/public/components/projects/projectsController.js",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1915,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								801,
+								801
 							]
 						],
 						"settings":
@@ -317,31 +314,32 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 109.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "public/components/connect/connectController.js",
+					"file": "/Users/mattagra/Code/personal-site/public/components/projects/projectsView.html",
 					"settings":
 					{
-						"buffer_size": 415,
+						"buffer_size": 627,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								411,
-								411
+								140,
+								140
 							]
 						],
 						"settings":
 						{
 							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -351,18 +349,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "public/components/connect/connectView.html",
+					"file": "/Users/mattagra/Code/personal-site/public/components/home/homeView.html",
 					"settings":
 					{
-						"buffer_size": 257,
+						"buffer_size": 467,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								216,
-								216
+								75,
+								75
 							]
 						],
 						"settings":

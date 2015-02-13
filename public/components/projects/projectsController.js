@@ -31,7 +31,13 @@ app.controller('ProjectsCtrl', function() {
     		name: "Beat Synchronized LED Lights", 
 	    	category: "Code", 
 	    	dev_period: "Jan 2013 - Jun 2013", 
-	    	description: "Programmed LED lights to illuminate when triggered by low frequency audio data from computer speakers" 
+	    	description: "Configured Arduino and 5 meter strip of RGB LED Lights to synchronize with the beat of R. Kelly's Number One. " 
+	    },
+    	{ 
+    		name: "SamaProm Promo Video", 
+	    	category: "Code", 
+	    	dev_period: "May 2013", 
+	    	description: "Shot a promotional video for UCLA Samahang Pilipino's SamaProm banquet over 3 days. Shot on a Canon Rebel T2i with a 18-55mm kit lens and 50mm f/1.8 lens." 
 	    },
     	{ 
 			name: "Personal Site", 
